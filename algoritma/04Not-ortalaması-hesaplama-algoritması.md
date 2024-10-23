@@ -1,0 +1,1 @@
+1.kullanıcıdan notları alın
