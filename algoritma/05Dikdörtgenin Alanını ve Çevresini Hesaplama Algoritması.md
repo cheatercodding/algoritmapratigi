@@ -1,1 +1,1 @@
-1.Kenarları girin Uzun ve Kısa kenarları alın
+1.Kenarları girin Uzun ve Kısa kenarları 
